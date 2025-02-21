@@ -19,9 +19,7 @@ This project analyzes the stock price volatility of Disney (ticker: `DIS`) using
   - `seaborn`
 
 ## How to Run
-1. Clone the repository:
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+1. Clone the repository
 2. Install dependencies:
 pip install -r requirements.txt
 3. Open the notebook:
